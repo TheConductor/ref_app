@@ -1,0 +1,5 @@
+equipment checkout~What is equipment checkout?~1
+equipment checkout~Who can checkout equipment?~2
+equipment checkout~What is the software used for equipment checkout?~3
+equipment checkout~How often do we do inventory?~4
+equipment checkout~Step by step, what is the process of checking out equipment?~5

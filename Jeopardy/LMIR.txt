@@ -1,0 +1,5 @@
+lmir~What does LMIR stand for?~1
+lmir~Walk me through starting a new LMIRS~2
+lmir~What can an S1 do in LMIR?~3
+lair~What can an S2 do in LMIR~4
+lmir~How do you view the second monitor on the client's computer?~5

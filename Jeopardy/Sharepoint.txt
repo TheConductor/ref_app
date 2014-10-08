@@ -1,0 +1,5 @@
+sharepoint~What is the URL to Sharepoint?~1
+sharepoint~What is the best browser for Sharepoint?~1
+sharepoint~How does the TAC use Sharepoint?~2
+sharepoint~Explain how to get to your timesheets on Sharepoint?(Be Specific)~4
+sharepoint~Where can you find TACling contact information?~5

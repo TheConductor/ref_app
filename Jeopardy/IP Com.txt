@@ -1,0 +1,6 @@
+ipcom~What are the primary and secondary uses for the intercom?~2
+ipcom~Approximately how many intercoms are installed on campus?~3
+ipcom~Who manages the intercom during work hours?~2
+ipcom~when does TAC take over the intercom?~3
+ipcom~How do you answer intercom calls?~5
+

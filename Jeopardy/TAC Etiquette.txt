@@ -1,0 +1,5 @@
+tac etiquette~Can you wear hats to work?~1
+tac etiquette~Can you wear shorts to work?~1
+tac etiquette~What should you do if a client starts yelling at you?~2
+tac etiquette~List the TAC hierarchy, starting with Noobs.~5
+tac etiquette~List the TAC hierarchy, starting with Noobs.~5

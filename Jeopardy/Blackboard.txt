@@ -1,0 +1,6 @@
+blackboard~What is the best browser to use with Blackboard~1
+blackboard~What kind of content is located in Blackboard?~1
+blackboard~How do you create a new course in Blackboard?~2
+blackboard~How do you merge courses in blackboard?~3
+blackboard~How often is blackboard down?~4
+blackboard~Who handles blackboard training?~5

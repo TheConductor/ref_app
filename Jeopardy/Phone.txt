@@ -1,0 +1,5 @@
+phone~What is the TAC’s phone number?~3
+phone~What’s the BatPhone number? (cell phone use allowed)~2
+phone~What buttons AUX you in?~3
+phone~What buttons AUX you out~3
+phone~Explain how to transfer a phone call?~5

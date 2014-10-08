@@ -1,0 +1,5 @@
+troubleshooting~List three resources at your disposal when troubleshooting with a client~1
+troubleshooting~What is the URL where the Reference Application is located?~2
+troubleshooting~Where are the numbers of different departments located?~3
+troubleshooting~When can you contact a Team Lead about an issue you are having?~4
+troubleshooting~Name three people you can go to above Team Leads~5troubleshooting~Test~1

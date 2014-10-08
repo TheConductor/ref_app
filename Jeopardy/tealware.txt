@@ -1,0 +1,5 @@
+tealware~What's the URL for tealware?~1
+tealware~What do you need to do prior to using tealware?~2
+tealware~What is tealware used for?~2
+tealware~How do you save a file locally via tealware?~3
+tealware~What is the name of our friend when saving locally via tealware?~5

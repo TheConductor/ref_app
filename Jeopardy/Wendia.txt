@@ -1,0 +1,8 @@
+wendia~What problems/client interactions require a ticket?~2
+wendia~Who should you assign department change tickets to?~3
+wendia~Who should you assign tickets about UNCW hardware issues to?~4
+wendia~How do you need to record tickets if Wendia is not working?~5
+wendia~How do you use the parent/child ticket of Wendia?~4
+wendia~Client needs a new monitor installed~1
+wendia~Unlock a domain account~2
+wendia~*Daily Double*On your computer, fill out a ticket for a Domain password reset (Include Task)~5

@@ -1,0 +1,5 @@
+iprint~How much money do students get in iPrint dollars each semester?~1
+iprint~How much money do students get in iPrint dollars during the summer sessions?~2
+iprint~Where can you find installation drivers for iPrint?~3
+iprint~What's the main difference between installing iPrint on a Mac verses a PC?~4
+iprint~Who do we call if iPrint goes down?~5

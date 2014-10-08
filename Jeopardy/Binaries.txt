@@ -1,0 +1,5 @@
+binaries~Where is b1nar1es located?~1
+binaries~Can B1nar1es remove viruses~2
+binaries~How many installs do you get with copies of Office bought from B1nar1es~3
+binaries~Do people buy computer from B1nar1es or through them?~4
+binaries~What else (other than computer, service, and software) can you buy at B1nar1es?~5

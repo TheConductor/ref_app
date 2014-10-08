@@ -1,0 +1,5 @@
+asktac~Who manages askTAC?~1
+asktac~What are the two different portals for askTAC~2
+asktac~Who can use askTAC~3
+asktac~Who can create solutions?~4
+asktac~Give an example of a situation where you can use askTAC~5

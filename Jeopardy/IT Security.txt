@@ -1,0 +1,6 @@
+it security~Where do we send SPAM messages?~2
+it security~Where do we check for shutdown accounts?~3
+it security~Advise a client on how to avoid being phished~5
+it security~Advise a parent on how to log into their child’s account~5
+it security~How do you help a client change their password?~3
+it security~What happens if a client gives us wrong information or can’t remember their private information?~5

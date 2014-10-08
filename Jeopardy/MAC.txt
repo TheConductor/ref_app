@@ -1,0 +1,8 @@
+mac~What does MAC stand for~1
+mac~How do you install applications on a MAC?~2
+mac~How do you setup VPN on a MAC?~3
+mac~What is the application bar at the bottom of the screen called?~4
+mac~How do you remote desktop into a UNCW computer using a mac? (Be Specific and walk me through it)~5
+mac~Where are OSX’s main settings stored?~3
+mac~What is the past four versions of OSX~5
+mac~
